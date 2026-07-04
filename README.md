@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29664738/README.md)
 # Pacman Game
 
 A Pacman clone made in Unity where players collect pellets while avoiding ghosts. Available for Windows.
